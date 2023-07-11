@@ -13,6 +13,7 @@ Versions of dependencies:
 npm install markdown-loader-y --save
 ```
 ## Usage
+```
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 
@@ -49,3 +50,4 @@ module.exports = {
     ]
   },
 }
+```
